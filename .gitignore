@@ -1,6 +1,9 @@
 # Dependency directories
 node_modules/
 
+# Resources directory
+/resources
+
 # Optional npm cache directory
 .npm
 

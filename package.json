@@ -5,13 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "adm-zip": "^0.5.14",
     "got": "^14.4.1",
+    "lodash": "^4.17.21",
     "path": "^0.12.7",
+    "util": "^0.12.5",
     "xml2js": "^0.6.2"
   }
 }
